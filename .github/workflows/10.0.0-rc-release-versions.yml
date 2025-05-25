@@ -1,0 +1,9 @@
+volttron-lib-web: releases/0.2.0-rc
+volttron-listener: releases/0.2.0-rc
+volttron-testing: releases/v0.4.0-rc
+volttron-core: releases/10.0.2-rc
+volttron-platform-driver: releases/0.2.0-rc
+volttron-lib-fake-driver: releases/0.2.0-rc
+volttron-sqlite-historian: releases/0.2.0-rc
+volttron-lib-sql-historian: releases/0.2.0-rc
+volttron-lib-base-historian: releases/0.2.0-rc
